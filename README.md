@@ -15,12 +15,6 @@ GenAI engineer moving into alignment research — this is where my research, exp
 | Graph RAG | ⏳ | LLM-driven knowledge-graph extraction with Neo4j |
 | RL | ⏳ | Reinforcement learning for language models |
 | Alignment | ⏳ | Alignment research notes and experiments |
-| RAG | ⏳ | Retrieval architectures and evaluation |
-| Prompt engineering | ⏳ | Prompting and optimization techniques |
-| Safety & red-teaming | ⏳ | Jailbreak and robustness testing |
-| Protocols | ⏳ | MCP, A2A, ACP |
-| Ops | ⏳ | Deployment and monitoring patterns |
-| Multimodal | ⏳ | Vision and cross-modal work |
 
 Planned sections have no folder yet — they appear here first and get a directory once there's real content.
 
